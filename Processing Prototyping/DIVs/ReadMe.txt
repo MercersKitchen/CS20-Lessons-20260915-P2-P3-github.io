@@ -2,6 +2,10 @@ Summarize what the DIVs have done
 
 What did the DIVs do in CS10
 
+Set-up: how to count through an array to identify 
+- rectangle number
+- rectangle parameter
+
 DIVs
 - mm measurements create ratios 
 - measurements made in 4 parameters for rect(x,y,w,h)
@@ -10,8 +14,11 @@ DIVs
 ---
 
 v1
-- lays out rectangles and iterates through array
-- leads to abstracting with FOR-Loop
+- refer to case study
+- ID menu size
+- identify referent
+- develop summary of referents and group-names for 
+- develop the local variable formulae for each parameter of each rectangle
 
 v2
 - lays out first row of music feature squares
