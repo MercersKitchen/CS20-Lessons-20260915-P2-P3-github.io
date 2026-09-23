@@ -44,7 +44,7 @@ void divs() {
     row3 = row2 + referent + referent*1/2;
     divs[3] += errorIncrease; //Increase height
   }
-  //
+  // Counting by 4's
   for ( int i=4; i<divs.length; i++) { //CAUTION: i=4 until above rewritten
     if ( i%4==0 && int(i/4)==0 ) {
       divs[i] = appWidth*1/4;

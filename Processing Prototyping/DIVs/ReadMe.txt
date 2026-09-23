@@ -8,3 +8,10 @@ DIVs
 - variables used for 2D Shapes, Images, & Text
 
 ---
+
+v1
+- lays out rectangles and iterates through array
+- leads to abstracting with FOR-Loop
+
+v2
+- lays out first row of music feature squares
