@@ -17,6 +17,7 @@ v1
 - refer to case study
 - ID menu size
 - identify referent
+- develop local variables for divs.[array]
 - develop summary of referents and group-names for 
 - develop the local variable formulae for each parameter of each rectangle
 
